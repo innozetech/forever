@@ -5,9 +5,6 @@
   E-commerce Development Pakistan, Custom E-commerce Solution, MERN Developer Pakistan
 -->
 
-<p align="center">
-  <img src="https://github.com/innozeDev/innozeDev/blob/f31cda0a3df8f4049382c3420b6677b386a2b9ce/github%20banner.jpeg" alt="Innoze — Software Development Company Pakistan" width="100%" />
-</p>
 
 <div align="center">
 
