@@ -1,5 +1,7 @@
 <!--
-  SEO KEYWORDS: MERN Stack E-commerce, React Shopping Cart, Node.js E-commerce, Online Clothing Store,
+  SEO KEYWORDS: Innoze, Innoze Tech, Innoze Tech Solutions, InnozeTech,
+  innoze github, innoze tech github, innoze tech solutions github, 
+  MERN Stack E-commerce, React Shopping Cart, Node.js E-commerce, Online Clothing Store,
   Full Stack Web Application, MongoDB E-commerce, React Tailwind E-commerce, JavaScript Shopping Website,
   Responsive E-commerce, Admin Dashboard, Product Management, Innoze, Innoze Tech, Pakistan Software House,
   E-commerce Development Pakistan, Custom E-commerce Solution, MERN Developer Pakistan
